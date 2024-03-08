@@ -1,3 +1,3 @@
-🔰 Practice Project
+🔰 Practice
 
 Testing GitHub.
